@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/https//:Arunthankaiah.github.io/Taskmanager/static/css/main.5a6700c1.css",
+    "main.js": "/https//:Arunthankaiah.github.io/Taskmanager/static/js/main.896a9833.js",
+    "static/js/787.25a4f316.chunk.js": "/https//:Arunthankaiah.github.io/Taskmanager/static/js/787.25a4f316.chunk.js",
+    "index.html": "/https//:Arunthankaiah.github.io/Taskmanager/index.html",
+    "main.5a6700c1.css.map": "/https//:Arunthankaiah.github.io/Taskmanager/static/css/main.5a6700c1.css.map",
+    "main.896a9833.js.map": "/https//:Arunthankaiah.github.io/Taskmanager/static/js/main.896a9833.js.map",
+    "787.25a4f316.chunk.js.map": "/https//:Arunthankaiah.github.io/Taskmanager/static/js/787.25a4f316.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a6700c1.css",
+    "static/js/main.896a9833.js"
+  ]
+}
